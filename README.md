@@ -36,7 +36,7 @@ habt, sollt ihr die Anwendung umsetzen.
 Ihr könnt hierzu eine Javascript-Anwendung oder eine Android-App entwickeln.
 
 **Falls ihr in der API Verbesserungspunkte identifiziert, können diese natürlich
-an das Entwicklungsteam der API (@matthesrieke) kommuniziert werden.**
+an das Entwicklungsteam der API ([@matthesrieke](http://github.com/matthesrieke/)) kommuniziert werden.**
 
 ## Ergebnis
 
