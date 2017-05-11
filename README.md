@@ -35,6 +35,9 @@ habt, sollt ihr die Anwendung umsetzen.
 
 Ihr könnt hierzu eine Javascript-Anwendung oder eine Android-App entwickeln.
 
+**Falls ihr in der API Verbesserungspunkte identifiziert, können diese natürlich
+an das Entwicklungsteam der API (@matthesrieke) kommuniziert werden.**
+
 ## Ergebnis
 
 Die Anwendung soll die REST API nutzen, die Stationen auf einer Karte
