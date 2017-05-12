@@ -18,7 +18,7 @@ https://kswe2017.daplie.me/api
 
 Eine Kurzdokumentation der API steht unter folgender URL zur Verfügung:
 
-https://kswe2017.daplie.me/api/docs/
+https://kswe2017.daplie.me/docs/
 
 ## Mockups
 
